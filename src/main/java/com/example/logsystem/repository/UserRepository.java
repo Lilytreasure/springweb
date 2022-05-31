@@ -8,9 +8,8 @@ import org.springframework.stereotype.Repository;
 //Extend the JPA repository
 //perform crud operation in the data
 //fetch data from the repository
-//add the files to git
-public interface UserRepository extends JpaRepository<User,Long>{
 
+public interface UserRepository extends JpaRepository<User,Long>{
 
 
 
