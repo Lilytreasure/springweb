@@ -3,6 +3,7 @@ package com.example.logsystem.web;
 
 import com.example.logsystem.service.UserService;
 import com.example.logsystem.web.dto.UserRegistrationDto;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
@@ -12,6 +13,7 @@ import org.springframework.web.bind.annotation.*;
 @Controller
 @RequestMapping("/registration")
 public class UserRegistrationController {
+
     private UserService userService;
 
     public UserRegistrationController(UserService userService) {
