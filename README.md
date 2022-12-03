@@ -10,19 +10,12 @@ This a website well programmed with Spring boot security
  <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/78819932/175958219-7828e8ec-7386-4d1d-bcd8-0a1684b9cb09.png" alt="Home page" style="width:250px;height:500px;"></td>
-      <td><img src="https://user-images.githubusercontent.com/78819932/174812441-406bbf16-7131-4b0b-8523-a0f6829b0df9.png" alt="select country" style="width:250px;height:500px;"></td>
+      <td><img src="https://user-images.githubusercontent.com/78819932/175959300-fed6f820-b1af-4d0a-a71a-0f71caa0bc63.png" alt="search image" style="width:250px;height:500px;"></td>
   
    
   </tr>
   
-   <tr>
-    <td><img src="https://user-images.githubusercontent.com/78819932/174809712-f01ac92a-dee3-4ad2-a5cb-9f93c2065eed.png" alt="Home page" style="width:250px;height:500px;"></td>
-      <td><img src="https://user-images.githubusercontent.com/78819932/174812441-406bbf16-7131-4b0b-8523-a0f6829b0df9.png" alt="select country" style="width:250px;height:500px;"></td>
-  
-   
-  </tr>
-  
-  
+ 
    
 </table><br><br>
 
