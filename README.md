@@ -1,5 +1,5 @@
-# springweb
-This a website well programmed with Spring boot security
+# Spring boot framework 
+Log in and registration with spring boot
 
 
 
